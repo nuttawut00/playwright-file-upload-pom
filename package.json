@@ -1,0 +1,22 @@
+{
+  "name": "playwright-file-upload-pom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuttawut00/playwright-file-upload-pom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuttawut00/playwright-file-upload-pom/issues"
+  },
+  "homepage": "https://github.com/nuttawut00/playwright-file-upload-pom#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.4"
+  }
+}
